@@ -25,7 +25,7 @@ Connect with me on various platforms:
 - [<img src="https://linkedin.com/favicon.ico" width="20" height="20" /> LinkedIn](https://www.linkedin.com/in/meera-sawantdesai-281258245/) - Let's connect professionally.
   .
   
-- [<img src="https://www.instagram.com/favicon.ico" width="20" height="20" /> Instagram](https://www.instagram.com/_meera_sd_/) - 
+
   
 - [<img src="https://leetcode.com/favicon.ico" width="20" height="20" /> LeetCode](https://leetcode.com/meera_sd_/) - Solve coding problems together.
   
