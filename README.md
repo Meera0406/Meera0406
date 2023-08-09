@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  ADGenAI.<br>👯 I’m looking to collaborate on Web development and Machine Learning Projects.<br>💬 Ask me about JAVA, DSA, OOPS.<br>⚡You can also reach out to me at meeramandar@gmail.com
-
+![Visitor Count](https://profile-counter.glitch.me/{Meera0406}/count.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meera_sd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/meera-sawantdesai-281258245) 
