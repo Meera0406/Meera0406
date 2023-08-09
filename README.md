@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meera0406&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera0406&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Meera0406&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
