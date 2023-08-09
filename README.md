@@ -1,23 +1,74 @@
-# 💫 About Me:
-🔭 I’m currently working on  ADGenAI.<br>👯 I’m looking to collaborate on Web development and Machine Learning Projects.<br>💬 Ask me about JAVA, DSA, OOPS.<br>⚡You can also reach out to me at meeramandar@gmail.com
-![Visitor Count](https://profile-counter.glitch.me/{Meera0406}/count.svg)
+<h1 align="center">Hi 👋, I'm Meera Sawantdesai</h1>
+<h3 align="center">CMPN Student | Web Developer</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meera_sd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/meera-sawantdesai-281258245) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Meera0406&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="MeeraSawantdesai" /> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meera0406&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Meera0406&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera0406&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🔭 I’m currently working on ADGenAI.
 
+- 👯 I’m looking to collaborate on **Web development and Machine Learning Projects**
+
+- 💬 Ask me about **JAVA, DSA, OOPS**
+
+- 📫 You can also reach out to me at **meeramandar@gmail.com** 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Meera0406&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+<!-- ✉️ Find me on: -->
 
----
-[![](https://visitcount.itsvg.in/api?id=Meera0406&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Social Media and Coding Profiles
+
+Connect with me on various platforms:
+
+
+- [<img src="https://github.com/fluidicon.png" width="20" height="20" /> GitHub](https://github.com/Meera0406) - Check out my repositories and contributions.
+  
+- [<img src="https://linkedin.com/favicon.ico" width="20" height="20" /> LinkedIn](https://www.linkedin.com/in/meera-sawantdesai-281258245/) - Let's connect professionally.
+  .
+  
+- [<img src="https://www.instagram.com/favicon.ico" width="20" height="20" /> Instagram](https://www.instagram.com/_meera_sd_/) - 
+  
+- [<img src="https://leetcode.com/favicon.ico" width="20" height="20" /> LeetCode](https://leetcode.com/meera_sd_/) - Solve coding problems together.
+  
+
+- [<img src="https://yt3.googleusercontent.com/kv5nH1CBnmIJ-1g2hmmTm_GekJfaYothHb1HmgAU8IB9zdu3y7vVVtCTEGPqs_dHbr0XEB_anyM=s900-c-k-c0x00ffffff-no-rj" width="20" height="20" /> Coding Ninja](https://www.codingninjas.com/studio/profile/deepa4622) - Join me in my DSA prep.
+
+  
+  
+
+<br />
+
+Feel free to reach out to me on any of these platforms. I'm always interested in connecting with fellow developers, sharing knowledge, and collaborating on exciting projects.
+
+
+
+ 
+<!--  <p align="center">
+ <a href="https://www.instagram.com/rapturouslydivine/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Python" height="40" style="vertical-align:top; margin:8px;"> </a>
+ <a href="https://www.linkedin.com/in/divisha-gupta-929935218/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
+ <a href="mailto:divish.gupta.2005@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:8px"></a>
+</p> -->
+
+
+# GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meera0406&show_icons=true&theme=dark)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera0406&layout=compact&theme=dark)
+
+## Longest Streak
+
+![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meera0406&theme=dark)
+
+
+
+
+<!-- 🧰 Languages and Tools: -->
+
+
+<!-- <p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p> -->
