@@ -23,14 +23,9 @@ Connect with me on various platforms:
 - [<img src="https://github.com/fluidicon.png" width="20" height="20" /> GitHub](https://github.com/Meera0406) - Check out my repositories and contributions.
   
 - [<img src="https://linkedin.com/favicon.ico" width="20" height="20" /> LinkedIn](https://www.linkedin.com/in/meera-sawantdesai-281258245/) - Let's connect professionally.
-  .
-  
 
   
-- [<img src="https://leetcode.com/favicon.ico" width="20" height="20" /> LeetCode](https://leetcode.com/meera_sd_/) - Solve coding problems together.
-  
 
-- [<img src="https://yt3.googleusercontent.com/kv5nH1CBnmIJ-1g2hmmTm_GekJfaYothHb1HmgAU8IB9zdu3y7vVVtCTEGPqs_dHbr0XEB_anyM=s900-c-k-c0x00ffffff-no-rj" width="20" height="20" /> Coding Ninja](https://www.codingninjas.com/studio/profile/deepa4622) - Join me in my DSA prep.
 
   
   
